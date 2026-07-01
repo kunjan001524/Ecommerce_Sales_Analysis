@@ -21,7 +21,9 @@ This project analyzes the Brazilian E-commerce dataset using Python, Google Cola
 - GitHub
 
 ## Dataset
-Brazilian E-commerce Public Dataset
+The analysis was performed using the Brazilian E-commerce Public Dataset.
+
+**Note:** The dataset is **not included** in this repository because of its size. The notebook and Power BI dashboard contain the complete analysis and can be used with the original dataset.
 
 ## Project Files
 - `Ecommerce_Sales_Analysis.ipynb` – Data cleaning, EDA, visualizations, and insights
